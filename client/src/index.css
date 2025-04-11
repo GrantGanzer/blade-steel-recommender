@@ -143,3 +143,5 @@ h1 {
   margin: 0 auto;
   object-fit: contain;
 }
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
